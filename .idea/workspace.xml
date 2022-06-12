@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9289654-e43a-410b-8551-4b17f876f0d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/django_auth_example/static/css/cover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_auth_example/static/img/default_user_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_auth_example/static/img/user_profile/icons8-change-user-80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_auth_example/static/img/user_profile/icons8-user-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_auth_example/static/img/user_profile/icons8-user-100_MrNH9E7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_auth_example/static/img/user_profile/icons8-user-100_QSEpUSt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_auth_example/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_auth_example/templates/registration/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_auth_example/templates/registration/user_logout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654969583514</updated>
       <workItem from="1654969584493" duration="4973000" />
-      <workItem from="1654977304843" duration="9855000" />
+      <workItem from="1654977304843" duration="9980000" />
     </task>
     <servers />
   </component>
